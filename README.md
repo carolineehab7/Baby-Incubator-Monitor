@@ -2,7 +2,7 @@
 This project details the development of a sensor-based system designed to simulate a baby incubator.
 
 ## Key Features:
-- Temprature & Humidity Monitoring: Using the DHT11 sensor, we were able to detect the temperature and the Humidity and take the corrective action
+- Temperature & Humidity Monitoring: Using the DHT11 sensor, we were able to detect the temperature and the Humidity and take the corrective action
 - Cooling system: The fan works according to the readings coming from the DHT11.
 - Display: LCD display is used to display the temperature and Humidity of the Incubator.
 
